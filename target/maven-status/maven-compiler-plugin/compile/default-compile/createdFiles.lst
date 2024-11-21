@@ -1,0 +1,15 @@
+com\example\adminclientes\repository\AuditoriaRepository.class
+com\example\adminclientes\controller\ClienteController.class
+com\example\adminclientes\model\Auditoria.class
+com\example\adminclientes\controller\AuditoriaController.class
+com\example\adminclientes\service\WeatherService.class
+com\example\adminclientes\config\SecurityConfig.class
+com\example\adminclientes\controller\UsuarioController.class
+com\example\adminclientes\model\Cliente.class
+com\example\adminclientes\AdminClientesAPI.class
+com\example\adminclientes\repository\ClienteRepository.class
+com\example\adminclientes\model\Usuario$Perfil.class
+com\example\adminclientes\repository\UsuarioRepository.class
+com\example\adminclientes\config\SwaggerConfig.class
+com\example\adminclientes\model\Usuario.class
+com\example\adminclientes\controller\WeatherController.class

@@ -1,0 +1,14 @@
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\AdminClientesAPI.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\config\SecurityConfig.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\config\SwaggerConfig.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\controller\AuditoriaController.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\controller\ClienteController.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\controller\UsuarioController.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\controller\WeatherController.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\model\Auditoria.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\model\Cliente.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\model\Usuario.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\repository\AuditoriaRepository.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\repository\ClienteRepository.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\repository\UsuarioRepository.java
+C:\Users\Miguel\Documents\NetBeansProjects\AdminClientesAPI\src\main\java\com\example\adminclientes\service\WeatherService.java
