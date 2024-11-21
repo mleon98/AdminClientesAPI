@@ -24,14 +24,11 @@ Apache Maven
 MySQL (configuración incluida en application.properties)
 Instalación
 Paso 1: Clonar el repositorio
-bash
-Copiar código
 git clone https://github.com/mleon98/AdminClientesAPI.git
 cd AdminClientesAPI
 Paso 2: Configurar la base de datos
 Crear una base de datos MySQL:
-sql
-Copiar código
+
 CREATE DATABASE admin_clientes;
 Importar el script SQL proporcionado en el repositorio:
 bash
@@ -40,8 +37,6 @@ mysql -u [usuario] -p admin_clientes < Script_BD_Mega.sql
 Paso 3: Configurar propiedades de la aplicación
 Editar el archivo src/main/resources/application.properties con las credenciales de tu base de datos:
 
-properties
-Copiar código
 spring.datasource.url=jdbc:mysql://localhost:3306/admin_clientes
 spring.datasource.username=tu_usuario
 spring.datasource.password=tu_contraseña
@@ -49,13 +44,10 @@ spring.jpa.hibernate.ddl-auto=update
 Paso 4: Compilar y ejecutar el proyecto
 Compilar el proyecto con Maven:
 
-bash
-Copiar código
+
 mvn clean install
 Ejecutar la aplicación:
 
-bash
-Copiar código
 mvn spring-boot:run
 Endpoints disponibles
 Usuarios
@@ -82,12 +74,9 @@ GET	/api/clima/{ciudad}	Obtener clima para una ciudad
 Documentación Swagger
 La documentación Swagger está disponible en:
 
-bash
-Copiar código
 http://localhost:8080/swagger-ui/index.html
 Estructura del proyecto
-bash
-Copiar código
+
 AdminClientesAPI/
 ├── src/main/java/com/example/adminclientes/
 │   ├── controller/   # Controladores REST
@@ -103,6 +92,7 @@ Crea una rama con tu funcionalidad: git checkout -b feature/nueva-funcionalidad.
 Haz commit de tus cambios: git commit -m 'Agregar nueva funcionalidad'.
 Haz push a tu rama: git push origin feature/nueva-funcionalidad.
 Abre un Pull Request.
+
 Autor
 Miguel León
 Correo: mleon98@gmail.com
